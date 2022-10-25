@@ -1,0 +1,25 @@
+{
+    "name": "Use StarryNight",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "StarryNight": "github:apmgd4th22-23/starrynight#c876a08bdc2ed8e5c351ce5fb66afefdb8460a36"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.10.36",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
